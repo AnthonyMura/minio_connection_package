@@ -1,0 +1,9 @@
+{
+    "mac": {
+        "endpoint_url": "http://10.10.1.174:9000",
+        "aws_access_key_id": "minkota_research",
+        "aws_secret_access_key": "11120121998abc98",
+        "region_name": "us-east-1",
+        "signature_version": "s3v4"
+    }
+}
